@@ -1,8 +1,8 @@
-AUTOMATIC IMAGE CAPTIONING
+# AUTOMATIC IMAGE CAPTIONING
 by Mukul Chauhan nov,2023
 </br>
 </br>
-Overview
+ # Overview
 </br>
 Automatic Image Captioning is a system that generates descriptive captions for images using advanced machine learning techniques. 
 </br>
@@ -11,7 +11,8 @@ This project aims to enhance the understanding and accessibility of images by pr
 for applications such as accessibility tools, content indexing, and aiding visually impaired individuals.
 </br>
 </br>
-Features
+
+# Features
 </br>
 1.Image Caption Generation: The system utilizes state-of-the-art deep learning models to automatically generate descriptive captions for input images.
 </br>
