@@ -34,6 +34,7 @@ for applications such as accessibility tools, content indexing, and aiding visua
 2nd. PreProcess the text data.Remove special characters. Add start and end to each comment.<br>
 3rd. Tokenize the corpus and padd them to the max length of the caption.<br>
 4th. Create a generator funcition due to large size of dataset<br>
+![data_generator](https://github.com/chauhan-mukul/Automatic_image_captioning/assets/143337342/3697606f-58b4-41cd-b50b-bc4ad5f0122a)
 
 
 ## Input           ||               y_True
@@ -53,3 +54,5 @@ Feature Matrix of the image for this given caption
 
 
 ## Pass the inputs in the model architecture
+# OUTPUT
+![test_case](https://github.com/chauhan-mukul/Automatic_image_captioning/assets/143337342/46032324-3dd5-4353-a1bf-3240f77757b7)
