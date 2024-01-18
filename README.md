@@ -33,5 +33,14 @@ for applications such as accessibility tools, content indexing, and aiding visua
 1st. Map the image to their captions in the format of dictionary.<br>
 2nd. PreProcess the text data.Remove special characters. Add start and end to each comment.<br>
 3rd. Tokenize the corpus and padd them to the max length of the caption.<br>
+4th. Create a generator funcition due to large size of dataset<br>
 
+## Input                            y_True
+<start>
+<start this >                       <is>
+<start this is>                     <a>
+<start this is a>                   <beautiful>
+<start this is a beautiful>         <day>
+<start this is a beautiful day>     <end>
+<start this is a beautiful day end>
 
