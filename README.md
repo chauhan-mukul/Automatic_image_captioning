@@ -35,12 +35,15 @@ for applications such as accessibility tools, content indexing, and aiding visua
 3rd. Tokenize the corpus and padd them to the max length of the caption.<br>
 4th. Create a generator funcition due to large size of dataset<br>
 
-## Input                            y_True
-<start>
-<start this >                       <is>
-<start this is>                     <a>
-<start this is a>                   <beautiful>
-<start this is a beautiful>         <day>
-<start this is a beautiful day>     <end>
-<start this is a beautiful day end>
+
+## Input           ||               y_True
+<pre>
+(start)                               (this)<br>
+(start this )                         (is)<br>
+(start this is)                       (a)<br>
+(start this is a)                     (beautiful)<br>
+(start this is a beautiful)           (day)<br>
+(start this is a beautiful day)       (end)<br>
+(start this is a beautiful day end)
+</pre>
 
