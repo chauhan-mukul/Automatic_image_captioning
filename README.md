@@ -37,6 +37,7 @@ for applications such as accessibility tools, content indexing, and aiding visua
 
 
 ## Input           ||               y_True
+INPUT1
 <pre>
 (start)                               (this)<br>
 (start this )                         (is)<br>
@@ -47,3 +48,8 @@ for applications such as accessibility tools, content indexing, and aiding visua
 (start this is a beautiful day end)
 </pre>
 
+INPUT2<br>
+Feature Matrix of the image for this given caption
+
+
+## Pass the inputs in the model architecture
